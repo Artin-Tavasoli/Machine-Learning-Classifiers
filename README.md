@@ -1,2 +1,15 @@
-# Machine-Learning-Classifiers
-A Machine Learning project ML project to predict AI course grades using social, demographic, and academic features (e.g., gender, study hours, test scores). Includes data preprocessing, EDA, feature engineering, and model evaluation to extract insights and build a predictive model.
+# Machine Learning Classifiers for Grade Prediction
+
+## Quick Navigation
+
+- [Overview](#overview)
+
+---
+
+## Overview
+
+This project explores the use of Machine Learning classification models to predict student performance in an Artificial Intelligence course. 
+
+It covers a full ML workflow, including **data preparation**, **EDA**, **feature engineering**, and **model evaluation** using a variety of supervised classifiers. The project focuses on identifying key academic, demographic, and social factors that impact student grades.
+
+---
