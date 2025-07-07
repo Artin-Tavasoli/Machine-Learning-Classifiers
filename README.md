@@ -1,9 +1,5 @@
 # Machine Learning Classifiers for Grade Prediction
 
-## Quick Navigation
-
-- [Overview](#overview)
-
 ---
 
 ## Overview
