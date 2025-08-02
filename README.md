@@ -8,4 +8,11 @@ This project explores the use of Machine Learning classification models to predi
 
 It covers a full ML workflow, including **data preparation**, **EDA**, **feature engineering**, and **model evaluation** using a variety of supervised classifiers. The project focuses on identifying key academic, demographic, and social factors that impact student grades.
 
+## Models
+  - Naive Bayes
+  - Decision Tree (scikit-learn)
+  - Random Forest
+  - XGBoost
+  - Decesion Tree (from Scratch)
+
 ---
